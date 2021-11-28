@@ -1,1 +1,1 @@
-# project
+# make leader in the cons function
